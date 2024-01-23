@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riouchan" />
 - 👋 Hi, I’m @riouchan
 - 👀 I’m interested in you
 - 🌱 I’m currently learning python
